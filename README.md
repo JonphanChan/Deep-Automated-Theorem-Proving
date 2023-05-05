@@ -1,8 +1,8 @@
 # Predicting One-step Proofs in Formal Mathematics using Transformer-based Neural Networks
 ## Deep Automated Theorem Proving
 
-Xiao Wang |  
-Junfan Chen | jonphanchen@gmail.com
+**Xiao Wang** | wangxiaodatascience@gmail.com   
+**Junfan Chen** | jonphanchen@gmail.com
 
 This project aims to investigate the potential of transformer models in mathematical proof verifica-
 tion, address the challenges associated with utilizing transformer models in the field of mathematics,
@@ -41,15 +41,43 @@ After runnning this code, we would have the dataset in our local environment.
 ### Model
 We build two models for this project and each of them is a seq2seq architecure Transformer. Here are the structure of the two models:
 
+#### Junfan's Architecture:
+
 <p align="center">
   <img width="460" height="440" src=>
+</p>
+
+
+#### Xioa's Architecture:
+
+<p align="center">
   <img width="460" height="440" src=>
 </p>
 
 With all the preparation steps get ready, we can run the code as these two workflow shown. And here are some sample of the output:
 
+#### A glance at the prediction for each step:
 
+<p align="center">
+  <img width="460" height="440" src=>
+</p>
 
+#### The overall model performance (plots):
 
+<p align="center">
+  <img width="460" height="440" src=>
+</p>
+
+#### The overall model performance (avg accuracy):
+
+<p align="center">
+  <img width="460" height="440" src=>
+</p>
+
+#### Model evaluation:
+
+<p align="center">
+  <img width="460" height="440" src=>
+</p>
 
 
