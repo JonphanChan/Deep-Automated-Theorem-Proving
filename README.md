@@ -30,9 +30,6 @@ Here are all the packages we would need for the model, if the package is not abl
 Before we run the model, we would need to get the data prepare. 
 
 ```python
-"""
-Download metamath set.mm into colab runtime
-"""
 !wget https://github.com/metamath/set.mm/raw/develop/set.mm
 ```
 
