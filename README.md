@@ -42,8 +42,8 @@ After runnning this code, we would have the dataset in our local environment.
 The model is a seq2seq architecure Transformer, and here are the structure of the two models:
 
 <p align="center">
-  <img width="460" height="440" src="https://user-images.githubusercontent.com/39479326/236372890-83d6d855-fdea-40db-8a61-5c681df2642b.png">
-  <img width="460" height="440" src="https://user-images.githubusercontent.com/39479326/236372909-9b5a1e51-6081-4220-ba37-687125f53d84.png">
+  <img width="460" height="440" src=>
+  <img width="460" height="440" src=>
 </p>
 
 With all the preparation steps get ready, we can run the code as these two workflow shown. And here are some sample of the output:
