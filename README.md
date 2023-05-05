@@ -39,7 +39,7 @@ Download metamath set.mm into colab runtime
 After runnning this code, we would have the dataset in our local environment.
 
 ### Model
-The model is a seq2seq architecure Transformer, and here are the structure of the two models:
+We build two models for this project and each of them is a seq2seq architecure Transformer. Here are the structure of the two models:
 
 <p align="center">
   <img width="460" height="440" src=>
