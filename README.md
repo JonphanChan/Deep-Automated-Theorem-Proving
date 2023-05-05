@@ -56,13 +56,13 @@ With all the preparation steps get ready, we can run the code as these two workf
 #### A glance at the prediction for each step:
 
 <p align="center">
-  <img width="460" height="440" src=>
+  <img width="470" height="180" src="https://user-images.githubusercontent.com/39479326/236565473-61032834-93e0-4dd3-a393-25bda158bac4.png">
 </p>
 
 #### The overall model performance (plots):
 
 <p align="center">
-  <img width="460" height="440" src=>
+  <img width="460" height="440" src="https://user-images.githubusercontent.com/39479326/236564850-e3a26494-4ef6-47c2-9ec5-1b445de8b6b3.png">
 </p>
 
 #### The overall model performance (avg accuracy):
@@ -74,7 +74,7 @@ With all the preparation steps get ready, we can run the code as these two workf
 #### Model evaluation:
 
 <p align="center">
-  <img width="460" height="440" src=>
+  <img width="470" height="160" src="https://user-images.githubusercontent.com/39479326/236565360-bf03a6b8-23c1-42d9-86a7-98159e6a8d4e.png">
 </p>
 
 
