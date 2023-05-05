@@ -1,8 +1,8 @@
 # Predicting One-step Proofs in Formal Mathematics using Transformer-based Neural Networks
 ## Deep Automated Theorem Proving
 
-**Xiao Wang** | wangxiaodatascience@gmail.com   
-**Junfan Chen** | jonphanchen@gmail.com
+**Xiao Wang** | xwang99@syr.edu   
+**Junfan Chen** | jchen269@syr.edu
 
 This project aims to investigate the potential of transformer models in mathematical proof verifica-
 tion, address the challenges associated with utilizing transformer models in the field of mathematics,
