@@ -48,7 +48,7 @@ We build two models for this project and each of them is a seq2seq architecure T
 #### Xioa's Architecture:
 
 <p align="center">
-  <img width="460" height="440" src="https://user-images.githubusercontent.com/39479326/236633020-6441a3b6-be56-4e2f-b379-9aae0eb51dae.png">
+  <img width="460" height="440" src="https://user-images.githubusercontent.com/39479326/236641013-a31c05fd-b457-4d3d-8216-9ee3bc012376.png">
 </p>
 
 With all the preparation steps get ready, we can run the code as these two workflow shown. And here are some sample of the output:
