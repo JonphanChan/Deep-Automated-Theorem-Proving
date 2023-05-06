@@ -7,7 +7,8 @@
 This project aims to investigate the potential of transformer models in mathematical proof verifica-
 tion, address the challenges associated with utilizing transformer models in the field of mathematics,
 and provide insights into the methodology and techniques employed in developing the transformer
-model for Set.mm
+model for Set.mm. And our models are built based on the transformer model developed by our instructor
+(Katz, [2023](https://colab.research.google.com/drive/1hIwuwZelSsSbqgJDsHJv2-peAx9wO4AL?usp=sharing)).
 
 ### Preparation
 The model is built with PyTorch, so we need to make sure the environment is built up sucessfully, here is a link about PyTorch: https://pytorch.org/docs/stable/index.html
@@ -41,14 +42,14 @@ We build two models for this project and each of them is a seq2seq architecure T
 #### Junfan's Architecture:
 
 <p align="center">
-  <img width="460" height="440" src=>
+  <img width="460" height="440" src="https://user-images.githubusercontent.com/39479326/236593734-08e2dba3-f756-455b-b554-4d740b0a0a57.png">
 </p>
 
 
 #### Xioa's Architecture:
 
 <p align="center">
-  <img width="460" height="440" src=>
+  <img width="460" height="440" src="https://user-images.githubusercontent.com/39479326/236593724-7597c680-a963-4068-a749-fa80a039d934.png">
 </p>
 
 With all the preparation steps get ready, we can run the code as these two workflow shown. And here are some sample of the output:
@@ -56,25 +57,27 @@ With all the preparation steps get ready, we can run the code as these two workf
 #### A glance at the prediction for each step:
 
 <p align="center">
-  <img width="470" height="180" src="https://user-images.githubusercontent.com/39479326/236565473-61032834-93e0-4dd3-a393-25bda158bac4.png">
+  <img width="800" src="https://user-images.githubusercontent.com/39479326/236565473-61032834-93e0-4dd3-a393-25bda158bac4.png">
 </p>
 
 #### The overall model performance (plots):
 
 <p align="center">
-  <img width="460" height="440" src="https://user-images.githubusercontent.com/39479326/236564850-e3a26494-4ef6-47c2-9ec5-1b445de8b6b3.png">
+  <img width="460" height="440" src="https://user-images.githubusercontent.com/39479326/236593204-2ba86b44-627b-4f8d-bb48-9deb74d90982.png">
+</p>
 </p>
 
 #### The overall model performance (avg accuracy):
 
 <p align="center">
-  <img width="460" height="440" src=>
+  <img width="460" src="https://user-images.githubusercontent.com/39479326/236593265-dab9afc5-3c38-451d-a598-4fee0f8d8475.png">
+
 </p>
 
 #### Model evaluation:
 
 <p align="center">
-  <img width="470" height="160" src="https://user-images.githubusercontent.com/39479326/236565360-bf03a6b8-23c1-42d9-86a7-98159e6a8d4e.png">
+  <img width="800" src="https://user-images.githubusercontent.com/39479326/236565360-bf03a6b8-23c1-42d9-86a7-98159e6a8d4e.png">
 </p>
 
 
