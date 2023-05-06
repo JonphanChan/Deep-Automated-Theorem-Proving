@@ -62,8 +62,7 @@ With all the preparation steps get ready, we can run the code as these two workf
 #### The overall model performance (plots):
 
 <p align="center">
-  <img width="460" height="440" src="https://user-images.githubusercontent.com/39479326/236593204-2ba86b44-627b-4f8d-bb48-9deb74d90982.png">
-</p>
+  <img width="460" height="440" src="https://user-images.githubusercontent.com/39479326/236641211-c8a3d05c-ebea-4d3a-a516-67dbb37acb55.png">
 </p>
 
 #### The overall model performance (avg accuracy):
