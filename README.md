@@ -23,7 +23,6 @@ import random
 import requests
 import math
 import torch.nn.functional as F
-from time import perf_counter
 ```
 
 Here are all the packages we would need for the model, if the package is not able to import, try install it first, here is a link about how to install python package: https://packaging.python.org/en/latest/tutorials/installing-packages/
